@@ -257,7 +257,7 @@ export const NoticesButtonDelete = styled.button`
     width: 160px;
     margin-right: 12px;
     margin-top: 0px;
-    padding: 9px 15px;
+    padding: 10px 15px;
   }
 `;
 
